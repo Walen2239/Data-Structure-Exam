@@ -4,4 +4,4 @@
 // JAMES EAT MY SHIT
 int binary_search(const int array[], int length, int target, bool ascending = true);
 
-#endif 
+#endif
